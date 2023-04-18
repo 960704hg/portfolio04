@@ -1,0 +1,42 @@
+body {
+    color: #343434;
+}
+
+p {
+    word-break: keep-all;
+    line-height: 1.4;
+}
+
+.sec {
+    padding: 100px 0;
+}
+
+.inner {
+    width: 1380px;
+    margin: 0 auto;
+}
+
+.padding {
+    margin-top: 100px;
+}
+
+.flex {
+    display: flex;
+    flex-direction: row;
+}
+
+.btn_o {
+    background: transparent;
+    border: none;
+    outline: none;
+    line-height: 1;
+    cursor: pointer;
+}
+
+.font_sans {
+    font-family: 'Noto Sans KR', sans-serif;
+}
+
+* {
+    outline: 1px solid t-omato;
+}
